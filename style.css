@@ -373,7 +373,7 @@ header a {
 .carousel.next .time,
 .carousel.prev .time {
     width: 100%;
-    animation: timeRunning 7s linear 1 forwards;
+    animation: timeRunning 5s linear 1 forwards;
 }
 
 @keyframes timeRunning {
